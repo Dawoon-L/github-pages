@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>20210221_김상대</title>
+<title>20235532_이다운</title>
 </head>
 <body id="main">
 <h1> JavaScript 실습 </h1>
